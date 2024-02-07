@@ -1,0 +1,3 @@
+Hello, World!
+This is a buffer example
+{"message":"This is a JSON object"}
